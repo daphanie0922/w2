@@ -62,7 +62,7 @@ p{
     color: #FFFFFF;
     font-style: italic;
     height: 100vh;
-    background-image: url(/images/banner.png);
+    background-image: url(images/banner.png);
     background-size: cover;
     background-position: center;
     display: flex;
