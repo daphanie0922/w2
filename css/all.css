@@ -80,10 +80,12 @@ li{
     display: flex;
     justify-content: space-between;
 }
+.icon img:hover{
+    width: 56px;
+}
 /* about */
 .about{
     font-style: italic;
-    /* outline: 1px solid red; */
     margin-top: 56px;
 }
 .aboutContent{
@@ -177,4 +179,7 @@ li{
     text-decoration: none;
     font-size: 24px;
     line-height: 36px;
+}
+.footer a:hover{
+    color: darkcyan;
 }
